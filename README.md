@@ -1,0 +1,3 @@
+# GENRERATE API - APPLICATION
+
+Generates json formatted files to use in the api...
